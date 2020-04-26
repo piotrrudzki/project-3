@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(/img/background_800.JPG);
+    background-image: url(img/background_800.JPG);
     height: 100vh;
 }
 
@@ -54,57 +54,57 @@ div {
 }
 
 .shoes1 {
-    background-image: url(/img/Shoes_1.JPG);
+    background-image: url(img/Shoes_1.JPG);
     background-size: cover;
 }
 
 .shoes2 {
-    background-image: url(/img/Shoes_2.JPG);
+    background-image: url(img/Shoes_2.JPG);
     background-size: cover;
 }
 
 .shoes3 {
-    background-image: url(/img/Shoes_3.JPG);
+    background-image: url(img/Shoes_3.JPG);
     background-size: cover;
 }
 
 .shoes4 {
-    background-image: url(/img/Shoes_4.JPG);
+    background-image: url(img/Shoes_4.JPG);
     background-size: cover;
 }
 
 .shoes5 {
-    background-image: url(/img/Shoes_5.JPG);
+    background-image: url(img/Shoes_5.JPG);
     background-size: cover;
 }
 
 .shoes6 {
-    background-image: url(/img/Shoes_6.JPG);
+    background-image: url(img/Shoes_6.JPG);
     background-size: cover;
 }
 
 .shoes7 {
-    background-image: url(/img/Shoes_7.JPG);
+    background-image: url(img/Shoes_7.JPG);
     background-size: cover;
 }
 
 .shoes8 {
-    background-image: url(/img/Shoes_8.JPG);
+    background-image: url(img/Shoes_8.JPG);
     background-size: cover;
 }
 
 .shoes9 {
-    background-image: url(/img/Shoes_9.JPG);
+    background-image: url(img/Shoes_9.JPG);
     background-size: cover;
 }
 
 .hidden {
-    background-image: url(/img/nice_kicks.JPG);
+    background-image: url(img/nice_kicks.JPG);
     background-position: center;
 }
 
 .off {
-    background-image: url(/img/nice_kicks__off.JPG);
+    background-image: url(img/nice_kicks__off.JPG);
     background-position: center;
 }
 
@@ -120,7 +120,7 @@ div {
 
 @media(min-width: 1025px) {
     body {
-        background-image: url(https://github.com/piotrrudzki/project-3/blob/master/img/background_1024.png);
+        background-image: url(img/background_1024.png);
     }
 
     div.container {
