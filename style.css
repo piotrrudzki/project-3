@@ -120,7 +120,7 @@ div {
 
 @media(min-width: 1025px) {
     body {
-        background-image: url(/img/background_1024.PNG);
+        background-image: url(https://github.com/piotrrudzki/project-3/blob/master/img/background_1024.png);
     }
 
     div.container {
